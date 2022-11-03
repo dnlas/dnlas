@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&pause=1000&color=DE5B66&center=true&vCenter=true&width=435&height=100&lines=HELLOW%2C+IM+DANIEL+HERRERA" alt="Typing SVG" /></a>
 
@@ -17,4 +17,4 @@
 <img src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section="footer">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section=footer"/>

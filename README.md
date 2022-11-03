@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section="header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&pause=1000&color=DE5B66&center=true&vCenter=true&width=435&height=100&lines=HELLOW%2C+IM+DANIEL+HERRERA" alt="Typing SVG" /></a>
 
@@ -15,3 +15,6 @@
 <div align="center"><h2>Lenguajes de Programación</h2><img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> <img width ='48px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
 <img src="https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg">
 <img src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg"></div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section="footer">

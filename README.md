@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DE5B66&height=120&section=header"/>
 
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=36&pause=1000&color=DE5B66&width=435&lines=HELLO%2C+MY+NAME+IS+DANIEL+HERRERA;IM+WEB+DEVELPMENT" alt="Typing SVG" /></a></center>
 
